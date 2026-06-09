@@ -1,0 +1,1 @@
+@include('full-listing-template::simple-login',['image'=>"https://propstudios.mx/img/Soho/Logo/Logo%20Soho%20Rojo.png"])
