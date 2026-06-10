@@ -12976,3 +12976,10 @@ body {
     background-image: url('../images/close.png');
 }
 
+.info{
+  display: none;
+}
+
+#about p{
+  font-size: 1.5vw;
+}

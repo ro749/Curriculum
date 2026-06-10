@@ -1,6 +1,8 @@
 <div id="aero" style="width: 90%; height: 90%; padding: 5%;">
     <div class="close-btn"></div>
     @include('info.skills')
+    @include('info.experience')
+    @include('info.about')
 </div>
 
 @push('scripts')
