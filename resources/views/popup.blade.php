@@ -3,6 +3,7 @@
     @include('info.skills')
     @include('info.experience')
     @include('info.about')
+    @include('info.contact')
 </div>
 
 @push('scripts')
