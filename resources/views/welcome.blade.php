@@ -10,7 +10,7 @@
         <span class="hero-text" style="animation-delay: 2.9s;">I'm Rodrigo Rivera</span>
     </h2>
     <h3 class="wow fadeInUp animated" data-wow-delay="1.2s">
-        <span class="hero-text" style="animation-delay: 2.8s;">Frutiger aero web developer</span>
+        <span class="hero-text" style="animation-delay: 2.8s;">Frutiger aero full stack developer</span>
     </h3>
     </div>
     @push('script-includes')
