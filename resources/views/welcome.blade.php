@@ -33,12 +33,12 @@
     $(document).ready(function(){
         setTimeout(function() { 
             let count = 0;
-            let titles = ['about me', 'experience', 'skills', 'contact', 'github'];
-            let links = ['#about', '#experience', '#skills', '#contact', 'https://github.com/ro749'];
+            let titles = ['about me', 'experience', 'skills', 'contact', 'github', 'projects'];
+            let links = ['#about', '#experience', '#skills', '#contact', 'https://github.com/ro749', '#projects'];
             let interval = setInterval(function() {
                 create_bubble(titles[count], links[count]);
                 count++;
-                if(count >= 5) {
+                if(count >= 6) {
                     clearInterval(interval);
                 }
             }, 100);

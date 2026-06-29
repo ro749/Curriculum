@@ -4,6 +4,7 @@
     @include('info.experience')
     @include('info.about')
     @include('info.contact')
+    @include('info.projects')
 </div>
 
 @push('scripts')
